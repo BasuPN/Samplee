@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="206" started-at="2021-01-10T17:44:38Z" finished-at="2021-01-10T17:44:38Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="9" started-at="2021-01-10T17:44:38Z" finished-at="2021-01-10T17:44:38Z">
+    </test> <!-- Test -->
+    <test name="SampleHW" duration-ms="149" started-at="2021-01-10T17:44:38Z" finished-at="2021-01-10T17:44:38Z">
+      <class name="Project.Sample.sampleTest">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:Project.Sample.sampleTest@75881071]" name="BeforeTest" is-config="true" duration-ms="12" started-at="2021-01-10T17:44:38Z" finished-at="2021-01-10T17:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Project.Sample.sampleTest@75881071]" name="Test" duration-ms="112" started-at="2021-01-10T17:44:38Z" finished-at="2021-01-10T17:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:Project.Sample.sampleTest@75881071]" name="AfterTest" is-config="true" duration-ms="1" started-at="2021-01-10T17:44:38Z" finished-at="2021-01-10T17:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- Project.Sample.sampleTest -->
+    </test> <!-- SampleHW -->
+  </suite> <!-- Suite -->
+</testng-results>
